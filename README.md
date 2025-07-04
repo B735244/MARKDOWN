@@ -59,6 +59,8 @@
   <a href="https://www.figma.com/design/beMVo4EVHNjLgy8jtjLriV/WireFrame-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4?node-id=120-83&t=Q7qtHJR6gGzlzA9P-1" target="_blank">새탭 열고 이동</a>
   URL위치 = herf/
 
+## 이미지
+
 
 ## 인용문
 > Hello World
@@ -66,7 +68,7 @@
 ## 표
 | 구문 (`\```언어`) | 설명 |
 |------------------|--------------------------|
-| `html`           | HTML 코드 |
+|:좌측정렬|:중앙정렬:|우측정렬:|
 | `css`            | CSS 코드 |
 | `js`, `javascript` | JavaScript 코드 |
 | `ts`, `typescript` | TypeScript 코드 |
@@ -98,13 +100,15 @@
 
 ---
 
-## 8. 수평선(Horizontal Rule)
+## 수평선(Horizontal Rule)
 
 - `---`, `***`, `___` 중 하나를 단독으로 사용
 
 
 
-## 코드블럭
+## 이미지
+![대체텍스트](이미지URL)
+
 
 
 ## 
