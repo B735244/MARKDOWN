@@ -35,6 +35,6 @@
 ##순서 업슨ㄴ 목록
 
 ## 링크(바로가기)
-  [네이버](https://naver.com)
-  <a href="https://naver.com" target="_blank">새탭 열고 이동</a>
+  [Figma](https://www.figma.com/design/beMVo4EVHNjLgy8jtjLriV/WireFrame-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4?node-id=120-83&t=Q7qtHJR6gGzlzA9P-1)
+  <a href="https://www.figma.com/design/beMVo4EVHNjLgy8jtjLriV/WireFrame-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4?node-id=120-83&t=Q7qtHJR6gGzlzA9P-1" target="_blank">새탭 열고 이동</a>
   URL위치 = herf/
