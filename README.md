@@ -61,9 +61,11 @@
 
 ## 이미지 
 ![노르웨이숲고양이](./test.jpg)
--현재 위치를 '.'으로 
--------
+
+------
+
 <img src="./test.jpg" width="300" height="200" alt=""/>
+
 ## 인용문
 > Hello World
 
@@ -108,8 +110,19 @@
 
 
 
-## 이미지
-![대체텍스트](이미지URL)
+## 코드블럭 (삼중백틱)
+
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+  </h1>HELLO WORLD</h1>
+ </body>
+</html>
+```
+
 
 
 
