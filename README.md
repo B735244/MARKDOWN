@@ -59,9 +59,11 @@
   <a href="https://www.figma.com/design/beMVo4EVHNjLgy8jtjLriV/WireFrame-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4?node-id=120-83&t=Q7qtHJR6gGzlzA9P-1" target="_blank">새탭 열고 이동</a>
   URL위치 = herf/
 
-## 이미지
+## 이미지 
 ![노르웨이숲고양이](./test.jpg)
 -현재 위치를 '.'으로 
+-------
+<img src="./test.jpg" width="300" height="200" alt=""/>
 ## 인용문
 > Hello World
 
